@@ -1,0 +1,159 @@
+﻿Microsoft .NET 6.0 - Windows Server Hosting 6.0.28,choco install dotnet-6.0-windowshosting
+WSL2 Distro Manager,choco install wsl2-distro-manager
+Windows Subsystem for Linux 2 2.0.0.20210721,choco install wsl2
+Ubuntu 22.04 LTS for WSL 22.4.0.20220819,choco install wsl-ubuntu-2204
+ipinfo,choco install ipinfo
+AnyDesk,choco install anydesk
+Docker Desktop,choco install docker-desktop
+SQL Server 2019 Express LocalDB,choco install sqllocaldb
+SQL Server Management Studio,choco install sql-server-management-studio
+ASP.NET and web development workload for Visual Studio 2022,choco install visualstudio2022-workload-netweb
+Microsoft SQL Server 2019 Developer Edition,choco install sql-server-2019
+Chocolatey GUI,choco install chocolateygui
+Chocolatey-AutoUpdater,choco install chocolatey-autoupdater
+Chocolatey Core Extensions,choco install chocolatey-core.extension
+Sublime Text 3,choco install sublimetext3.app
+SQL Toolbelt,choco install sqltoolbelt
+Microsoft Teams Desktop App,choco install microsoft-teams
+Slack,choco install slack
+Gulp-CLI,choco install gulp-cli
+FortiClient VPN,choco install forticlientvpn
+GNVM,choco install gnvm
+NVM,choco install nvm
+Yarn,choco install yarn
+GitHub CLI,choco install gh
+Youtube-dl,choco install youtube-dl
+YT-DLP,choco install yt-dlp
+FFmpeg,choco install ffmpeg
+AtomicParsley,choco install atomicparsley
+Aria2,choco install aria2
+GNU Wget,choco install wget
+Choco Cleaner,choco install choco-cleaner
+Internet Download Manager,choco install internet-download-manager
+PowerShell-Core,choco install powershell-core
+Adobe Acrobat Reader DC,choco install adobereader
+Google Chrome,choco install googlechrome
+Mozilla Firefox,choco install firefox
+Java SE Runtime Environment,choco install jre8
+Microsoft Visual C++ Redistributable for Visual Studio 2015-2022,choco install vcredist140
+Google Drive for desktop (formerly File Stream),choco install google-drive-file-stream
+Notepad++,choco install notepadplusplus.install
+7-Zip,choco install 7zip.install
+Python 3.x,choco install python3
+VLC media player,choco install vlc
+Microsoft .NET Framework 4.8,choco install dotnetfx
+Microsoft Teams,choco install microsoft-teams.install
+Git,choco install git.install
+Microsoft Edge,choco install microsoft-edge
+Zoom Client,choco install zoom
+WinRAR,choco install winrar
+Node.js LTS,choco install nodejs-lts
+Foxit PDF Reader,choco install foxitreader
+Teamviewer,choco install teamviewer
+CCleaner,choco install ccleaner
+PuTTY,choco install putty.install
+Java SE Development Kit,choco install jdk8
+Visual Studio Code,choco install vscode.install
+Visual Studio Code C# Extension,choco install vscode-csharp
+Visual Studio Code PowerShell Extension,choco install vscode-powershell
+Prettier Code Formatter VSCode Extension,choco install vscode-prettier
+Visual Studio 2015 Enterprise Update 3,choco install visualstudio2015enterprise
+Visual Studio 2017 Enterprise,choco install visualstudio2017enterprise
+Visual Studio 2019 Enterprise,choco install visualstudio2019enterprise
+Visual Studio 2022 Enterprise,choco install visualstudio2022enterprise
+DB Browser for SQLite,choco install sqlitebrowser.install
+Windows Terminal,choco install microsoft-windows-terminal
+K-Lite Codec Pack Full,choco install k-litecodecpackfull
+Spotify,choco install spotify
+Dropbox,choco install dropbox
+Nuget.CommandLine,choco install nuget.commandline
+OpenSSL,choco install openssl
+VirtualBox,choco install virtualbox
+G-Suite Sync for Microsoft Outlook,choco install gsuite-sync-outlook
+Opera,choco install opera
+Zoom Plugin for Microsoft Outlook,choco install zoom-outlook
+7-Zip CommandLine,choco install 7zip.commandline
+Postman for Windows,choco install postman
+Microsoft OneDrive,choco install onedrive
+Greenshot,choco install greenshot
+OBS Studio,choco install obs-studio.install
+Speedtest by Ookla,choco install speedtest
+WinMerge,choco install winmerge
+Google Chrome Enterprise,choco install google-chrome-for-enterprise
+Tor Browser,choco install tor-browser
+JSON Processor CommandLine,choco install jq
+Microsoft Local Administrator Password Solution (LAPS),choco install laps
+Dell Command - Update,choco install dellcommandupdate
+Sourcetree for Windows Enterprise,choco install sourcetree
+Jetbrains Rider,choco install jetbrains-rider
+JetBrains ReSharper Ultimate Platform,choco install resharper-platform
+WhatsApp Messenger,choco install whatsapp
+Telerik Fiddler Web Debugger,choco install fiddler
+GitHub Desktop,choco install github-desktop
+Android Studio,choco install androidstudio
+Cyberduck,choco install cyberduck
+TeraCopy,choco install teracopy
+Windows Subsystem for Linux 2,choco install wsl2
+Octopus Deploy - Server,choco install octopusdeploy
+PowerISO,choco install poweriso
+mRemoteNG,choco install mremoteng
+Epic Games Launcher,choco install epicgameslauncher
+Arduino IDE,choco install arduino
+Burp Suite Community Edition,choco install burp-suite-free-edition
+360 Total Security,choco install 360ts
+Kodi,choco install kodi
+AutoIt,choco install autoit.install
+Plex Media Server,choco install plexmediaserver
+Steam,choco install steam
+LINQPad 6,choco install linqpad6
+VMware Workstation Pro,choco install vmwareworkstation
+JetBrains Toolbox App,choco install jetbrainstoolbox
+TurnedOnTimesView,choco install turnedontimesview
+Flutter,choco install flutter
+GitTfs,choco install gittfs
+JetBrains ReSharper Command Line Tools (Portable),choco install resharper-clt.portable
+LINQPad,choco install linqpad
+Plex,choco install plex
+HP Support Assistant,choco install hpsupportassistant
+Mouse Without Borders,choco install mousewithoutborders
+Tixati,choco install tixati
+Postman,choco install postman
+OpenVPN,choco install openvpn
+FileZilla,choco install filezilla
+FileZilla Server,choco install filezilla.server
+Telegram,choco install telegram
+Telerik Fiddler Web Debugger,choco install fiddler
+ReSharper Ultimate All,choco install resharper-ultimate-all
+JetBrains ReSharper Command Line Tools,choco install resharper-clt
+JetBrains Toolbox App,choco install jetbrainstoolbox
+Jetbrains Rider,choco install jetbrains-rider
+MongoDB,choco install mongodb
+Android Debug Bridge,choco install adb
+PostgreSQL,choco install postgresql
+Yarn (Install),choco install yarn
+Wireshark ,choco install wireshark
+WinSetupFromUSB,choco install winsetupfromusb
+WinRAR,choco install winrar
+WinDirStat (Install),choco install windirstat
+Visual Studio Code,choco install vscode
+Docker Desktop,choco install docker-desktop
+VMWare Tools for Windows,choco install vmware-tools
+URL Rewrite for IIS (Install),choco install urlrewrite
+Opera GX (Install),choco install opera-gx
+Telegram,choco install telegram
+Tixati,choco install tixati
+Tixati Portable,choco install tixati.portable
+qBittorrent,choco install qbittorrent
+uTorrent Classic (Install),choco install utorrent
+Transmission,choco install transmission
+Teamviewer (Install),choco install teamviewer
+Microsoft Teams (new client) Bootstrapper (Machine-Wide Install),choco install microsoft-teams-new-bootstrapper
+UniGetUI,choco install wingetui
+Microsoft Access Database Engine 2010 Redistributable 2024.4.13,choco install made2010
+Microsoft Access Database Engine 2016 Redistributable 2022.08.23,choco install made-2016
+Microsoft Access 2010 Redistributable (x64) 1.1,choco install msaccess2010-redist-x64
+Redis 7.4.1,choco install redis
+Nilesoft Shell,choco install nilesoft.shell
+Apktool,choco install apktool
+APKRepatcher,choco install apkrepatcher
+Airdroid,choco install airdroid
