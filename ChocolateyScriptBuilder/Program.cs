@@ -8,9 +8,9 @@ namespace ChocolateyScriptBuilder
     {
         private static void Main(string[] args)
         {
-            string[] commands = new string[] { "info", "install", "upgrade", "uninstall" };
+            string[] commands = { "info", "install", "upgrade", "uninstall" };
 
-            string batchFileContent = @"
+            const string batchFileContent = @"
 @echo off
 :: https://stackoverflow.com/a/10052222
 :: BatchGotAdmin
@@ -60,25 +60,20 @@ pause
                     string packagePath = Path.Combine("packages", softwareName);
 
                     if (!Directory.Exists(packagePath))
-                    {
                         Directory.CreateDirectory(packagePath);
-                    }
 
                     Console.WriteLine("Create package: {0}", softwareName);
 
                     foreach (string command in commands)
                     {
-                        string batchFileName = $"{command}.bat";
-                        string batchFilePath = Path.Combine(packagePath, batchFileName);
+                        string batchFilePath = Path.Combine(packagePath, $"{command}.bat");
 
                         if (File.Exists(batchFilePath))
-                        {
                             File.Delete(batchFilePath);
-                        }
 
                         using (StreamWriter writer = new StreamWriter(batchFilePath))
                         {
-                            writer.Write(string.Format(batchFileContent, softwareName, command, packageName));
+                            writer.Write(batchFileContent, softwareName, command, packageName);
                         }
                     }
 
